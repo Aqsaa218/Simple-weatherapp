@@ -2,8 +2,12 @@
 
 ## Overview
 hi! my name is aqsa
+<<<<<<< HEAD
 hi! my name is aqsa
 hi! my name is aqsa
+=======
+hi! hi hi hi hi hi
+>>>>>>> main
 The Weather Forecast App is a web application that provides users with current weather conditions and a 5-day weather forecast for various cities. It features a responsive design with a sidebar navigation, a search bar for city input, and an integrated chatbot for weather-related queries.
 
 ## Features
